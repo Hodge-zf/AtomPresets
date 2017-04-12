@@ -1,0 +1,22 @@
+"*":
+  core:
+    projectHome: "~/Workspace/"
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "atom-monokai"
+    ]
+  editor: {}
+  "exception-reporting":
+    userId: "2f9de84d-036a-508d-6ad0-7fac5786c0e2"
+  minimap:
+    absoluteMode: true
+    plugins:
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+  "seti-ui":
+    compactView: true
+    disableAnimations: true
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
