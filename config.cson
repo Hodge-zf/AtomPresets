@@ -6,7 +6,9 @@
       "seti-ui"
       "atom-monokai"
     ]
-  editor: {}
+  editor:
+    fontSize: 15
+    scrollSensitivity: 70
   "exception-reporting":
     userId: "2f9de84d-036a-508d-6ad0-7fac5786c0e2"
   minimap:
