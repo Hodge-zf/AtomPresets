@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+        "spec": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11754-1967-gl4tww.j8zwz2rzfr"
+    ]
+  ],
+  "_from": "../d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+  "_id": "acute-syntax@1.0.0",
+  "_inCache": true,
+  "_location": "/acute-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+    "spec": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+  "_shasum": "1079cdeeb6ba20636dba331a0ebbfe63692c8a6a",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11754-1967-12enznf.uil3fmvx6r/package.tgz",
+  "_where": "/tmp/apm-install-dir-11754-1967-gl4tww.j8zwz2rzfr",
+  "author": {
+    "name": "Tommy Heffernan",
+    "email": "tdheff@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/tdheff/acute-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A 2 hue + trim syntax theme.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/tdheff/acute-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "license": "MIT",
+  "name": "acute-syntax",
+  "optionalDependencies": {},
+  "readme": "# acute-syntax theme\n\nA 2 hue + trim syntax theme for atom.\n\n![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)\n\nBased on [duotone-dark-sea-syntax](https://atom.io/themes/duotone-dark-sea-syntax)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdheff/acute-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.0.0",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
